@@ -1,8 +1,10 @@
-👋 Hey there, I'm Althafbinrafi!
+#Althaf Binrafi
+I'm Althaf, a Flutter developer. Passionate about creating apps, simplifying complexities, and contributing to the tech community.
 
-📱 Passionate about app development, especially using Flutter.
 
 🇮🇳 Proud Indian developer exploring the world of mobile applications.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=althafbinrafi)](https://github.com/anuraghazra/github-readme-stats)
 
