@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Althafbinrafi
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hey there, I'm Althafbinrafi!
+
+📱 Passionate about app development, especially using Flutter.
+
+🇮🇳 Proud Indian developer exploring the world of mobile applications.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=althafbinrafi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Althafbinrafi/Althafbinrafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
